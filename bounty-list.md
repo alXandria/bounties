@@ -5,7 +5,6 @@
 - Confio
 - Strangelove
 - Cosmos Joe
-- Juno Sauce SubDAO
 - Regen Network
 - Comdex
 - Cosmos Hub

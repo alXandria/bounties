@@ -19,6 +19,5 @@
 - Stargaze
 - DAO DAO
 - Racoon
-- Bad Kids
 - Stargaze Punks
 - AQUA DAO 

@@ -12,7 +12,6 @@
 - Andromeda
 - CzarDAO
 - Notional
-- Cosmostation
 - WYND DAO
 - Nomic
 - Stargaze

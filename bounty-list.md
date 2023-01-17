@@ -8,7 +8,6 @@
 - Regen Network
 - Comdex
 - Cosmos Hub
-- Chihuahua
 - Cosmology
 - Andromeda
 - CzarDAO
@@ -19,5 +18,4 @@
 - Stargaze
 - DAO DAO
 - Racoon
-- Stargaze Punks
 - AQUA DAO 

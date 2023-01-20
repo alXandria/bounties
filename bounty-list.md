@@ -6,7 +6,6 @@
 - Strangelove
 - Cosmos Joe
 - Regen Network
-- Comdex
 - Cosmos Hub
 - Cosmology
 - Andromeda

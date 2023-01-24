@@ -11,7 +11,6 @@
 - Andromeda
 - CzarDAO
 - Notional
-- WYND DAO
 - Nomic
 - Stargaze
 - DAO DAO
